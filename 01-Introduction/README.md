@@ -20,6 +20,23 @@ print("hello")
 <b>
 
 ```py
+for i in range(0, 1, 1):
+    print("hello")
+```
+</b>
+
+<details>
+<summary> Answer </summary>
+
+<b> `O(1)` </b>
+</details>
+
+---
+
+⦿ What is Time Complexity of following code?
+<b>
+
+```py
 for i in range(0, n, 1):
     print("hello")
 ```
@@ -188,6 +205,8 @@ def fib(n):
 <summary> Answer </summary>
 
 <b> `O(2ⁿ)` </b>  
-<img src="images/exponential.png">
+
+<img src="https://raw.githubusercontent.com/er-knight/ds-algo/master/images/exponential.png" width="300">
 </details>
+
 ---
